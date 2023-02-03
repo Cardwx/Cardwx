@@ -1,4 +1,4 @@
-## Olá me chamo Lucas Cardoso e sou estudante de desenvolvimento Web
+## Olá, me chamo Lucas Cardoso e sou estudante de desenvolvimento Web
 <div align="center">
   <a href="https://github.com/Cardwx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardwx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
